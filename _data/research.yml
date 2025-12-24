@@ -6,7 +6,7 @@ publications:
     year: 2025
     venue: "Journal of Financial and Quantitative Analysis"
     links:
-      pdf: "files/mw_pollution.pdf"
+      pdf: "/files/mw_pollution.pdf"
       publisher: "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5C26463ACE912BE35CF29B860893D5D6/S0022109024000644a.pdf/div-class-title-minimum-wages-state-ownership-and-corporate-environmental-policies-div.pdf"
       ssrn: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4131002"
 
@@ -15,7 +15,7 @@ publications:
     year: 2025
     venue: "Journal of Accounting and Economics"
     links:
-      pdf: "files/early_life_ceo.pdf"
+      pdf: "/files/early_life_ceo.pdf"
       publisher: "https://www.sciencedirect.com/science/article/abs/pii/S0165410124000648"
       ssrn: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4199775"
 
@@ -24,7 +24,7 @@ publications:
     year: 2023
     venue: "Journal of Personality and Social Psychology"
     links:
-      pdf: "files/individualism.pdf"
+      pdf: "/files/individualism.pdf"
       publisher: "https://psycnet.apa.org/record/2022-90269-001"
       ssrn: ""
 
@@ -33,7 +33,7 @@ publications:
     year: 2022
     venue: "Review of Finance"
     links:
-      pdf: "files/politician_privatization.pdf"
+      pdf: "/files/politician_privatization.pdf"
       publisher: "https://academic.oup.com/rof/article-abstract/26/3/637/6428681"
       ssrn: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3569330"
 
@@ -42,6 +42,6 @@ publications:
     year: 2021
     venue: "Management Science"
     links:
-      pdf: "files/sars_imprint.pdf"
+      pdf: "/files/sars_imprint.pdf"
       publisher: "https://pubsonline.informs.org/doi/10.1287/mnsc.2021.4015"
       ssrn: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3251361"
