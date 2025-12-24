@@ -1,12 +1,4 @@
-working_papers:
-  - title: "Paper Title"
-    authors: "Your Name, Coauthor"
-    year: 2025
-    status: "Working Paper"
-    abstract: "One or two sentences..."
-    links:
-      pdf: ""
-      code: ""
+working_papers: []
 
 publications:
   - title: "Minimum wages, state-ownership, and corporate environmental policies"
@@ -14,8 +6,8 @@ publications:
     year: 2025
     venue: "Journal of Financial and Quantitative Analysis"
     links:
-      pdf: ""
-      publisher: ""
+      pdf: "files/mw_pollution.pdf"
+      publisher: "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5C26463ACE912BE35CF29B860893D5D6/S0022109024000644a.pdf/div-class-title-minimum-wages-state-ownership-and-corporate-environmental-policies-div.pdf"
       ssrn: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4131002"
 
   - title: "Early life experience and CEO’s reactions to COVID-19"
@@ -23,17 +15,16 @@ publications:
     year: 2025
     venue: "Journal of Accounting and Economics"
     links:
-      pdf: ""
-      publisher: ""
+      pdf: "files/early_life_ceo.pdf"
+      publisher: "https://www.sciencedirect.com/science/article/abs/pii/S0165410124000648"
       ssrn: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4199775"
 
   - title: "Cultural antecedents of virus transmission: Individualism is associated with lower compliance with social distancing rules during the COVID-19 pandemic"
     authors: "Kunru Zou, Zhiyu Feng, Krishna Savani"
     year: 2023
     venue: "Journal of Personality and Social Psychology"
-    citation: "124(3), 461–482"
     links:
-      pdf: ""
+      pdf: "files/individualism.pdf"
       publisher: "https://psycnet.apa.org/record/2022-90269-001"
       ssrn: ""
 
@@ -41,18 +32,16 @@ publications:
     authors: "Kunru Zou, Hong Ru"
     year: 2022
     venue: "Review of Finance"
-    citation: "26(3), 637–672"
     links:
-      pdf: ""
-      publisher: ""
+      pdf: "files/politician_privatization.pdf"
+      publisher: "https://academic.oup.com/rof/article-abstract/26/3/637/6428681"
       ssrn: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3569330"
 
   - title: "Combating the COVID-19 pandemic: The role of the SARS imprint"
     authors: "Kunru Zou, Hong Ru, Endong Yang"
     year: 2021
     venue: "Management Science"
-    citation: "67(9), 5606–5615"
     links:
-      pdf: ""
-      publisher: ""
+      pdf: "files/sars_imprint.pdf"
+      publisher: "https://pubsonline.informs.org/doi/10.1287/mnsc.2021.4015"
       ssrn: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3251361"
