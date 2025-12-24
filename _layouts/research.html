@@ -15,11 +15,14 @@ layout: page
 {% endfor %}
 
 <h2>Publications</h2>
-{% for p in site.data.research.publications %}
+{% assign pubs = site.data.research.publications | sort: "year" | reverse %}
+{% for p in pubs %}
 <p>
 <strong>{{ p.title }}</strong> ({{ p.year }})<br/>
-{{ p.authors }}{% if p.venue %} — <em>{{ p.venue }}</em>{% endif %}<br/>
+{{ p.authors }}{% if p.venue %} — <em>{{ p.venue }}</em>{% endif %}{% if p.citation %}, {{ p.citation }}{% endif %}
+<br/>
 {% if p.links.pdf %}<a href="{{ p.links.pdf }}">PDF</a>{% endif %}
 {% if p.links.publisher %} | <a href="{{ p.links.publisher }}">Publisher</a>{% endif %}
+{% if p.links.ssrn %} | <a href="{{ p.links.ssrn }}">SSRN</a>{% endif %}
 </p>
 {% endfor %}
