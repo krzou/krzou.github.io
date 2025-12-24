@@ -1,0 +1,7 @@
+title: Your Name
+theme: minima
+markdown: kramdown
+header_pages:
+  - index.md
+  - research.md
+  - teaching.md
