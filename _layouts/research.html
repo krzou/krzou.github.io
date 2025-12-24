@@ -1,0 +1,25 @@
+---
+layout: page
+---
+
+<h2>Working Papers</h2>
+{% for p in site.data.research.working_papers %}
+<p>
+<strong>{{ p.title }}</strong> ({{ p.year }})<br/>
+{{ p.authors }}{% if p.status %} — <em>{{ p.status }}</em>{% endif %}<br/>
+{% if p.abstract %}{{ p.abstract }}<br/>{% endif %}
+{% if p.links.pdf %}<a href="{{ p.links.pdf }}">PDF</a>{% endif %}
+{% if p.links.slides %} | <a href="{{ p.links.slides }}">Slides</a>{% endif %}
+{% if p.links.code %} | <a href="{{ p.links.code }}">Code</a>{% endif %}
+</p>
+{% endfor %}
+
+<h2>Publications</h2>
+{% for p in site.data.research.publications %}
+<p>
+<strong>{{ p.title }}</strong> ({{ p.year }})<br/>
+{{ p.authors }}{% if p.venue %} — <em>{{ p.venue }}</em>{% endif %}<br/>
+{% if p.links.pdf %}<a href="{{ p.links.pdf }}">PDF</a>{% endif %}
+{% if p.links.publisher %} | <a href="{{ p.links.publisher }}">Publisher</a>{% endif %}
+</p>
+{% endfor %}
