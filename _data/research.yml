@@ -1,0 +1,18 @@
+working_papers:
+  - title: "Paper Title"
+    authors: "Your Name, Coauthor"
+    year: 2025
+    status: "Working Paper"
+    abstract: "One or two sentences..."
+    links:
+      pdf: ""
+      code: ""
+
+publications:
+  - title: "Published Paper Title"
+    authors: "Your Name, Coauthor"
+    year: 2024
+    venue: "Journal Name"
+    links:
+      pdf: ""
+      publisher: ""
