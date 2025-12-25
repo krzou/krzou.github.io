@@ -4,11 +4,11 @@ title: Home
 permalink: /
 ---
 
-Your Name  
-Department / University
+Kunru Zou
+Hong Kong Baptist University
 
-Research interests: ...
+Research interests: Corporate Finance, Real Estate, Chinese Economy
 
-Email: your@email.com  
+Email: kunru.zou@outlook.com  
 CV: [PDF](#)  
 Google Scholar: [link](#)
