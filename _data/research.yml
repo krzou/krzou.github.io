@@ -40,6 +40,15 @@ publications:
       publisher: "https://www.sciencedirect.com/science/article/abs/pii/S0165410124000648"
       ssrn: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4199775"
 
+  - title: "Cultural antecedents of virus transmission"
+    authors: "Zhiyu Feng, Kunru Zou, Krishna Savani"
+    year: 2023
+    venue: "Journal of Personality and Social Psychology"
+    links:
+      pdf: "/files/individualism.pdf"
+      publisher: "https://psycnet.apa.org/record/2022-90269-001"
+      ssrn: ""
+
   - title: "How do individual politicians affect privatization? Evidence from China"
     authors: "Hong Ru, Kunru Zou"
     year: 2022
@@ -57,12 +66,3 @@ publications:
       pdf: "/files/sars_imprint.pdf"
       publisher: "https://pubsonline.informs.org/doi/10.1287/mnsc.2021.4015"
       ssrn: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3251361"
-
-  - title: "Cultural antecedents of virus transmission: Individualism is associated with lower compliance with social distancing rules during the COVID-19 pandemic"
-    authors: "Zhiyu Feng, Kunru Zou, Krishna Savani"
-    year: 2023
-    venue: "Journal of Personality and Social Psychology"
-    links:
-      pdf: "/files/individualism.pdf"
-      publisher: "https://psycnet.apa.org/record/2022-90269-001"
-      ssrn: ""
