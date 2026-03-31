@@ -15,8 +15,7 @@ I am an Assistant Professor at Hong Kong Baptist University. My research focuses
 Email: [kunruzou@hkbu.edu.hk](mailto:kunruzou@hkbu.edu.hk)  
 HKBU Profile: [Faculty page](https://scholars.hkbu.edu.hk/en/persons/KUNRUZOU/)  
 Research: [Publications and working papers](/research/)  
-Teaching: [Courses taught](/teaching/)  
-CV: [Web version](/cv/)
+Teaching: [Courses taught](/teaching/)
 
 ## Research Interests
 
