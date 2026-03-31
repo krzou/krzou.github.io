@@ -7,6 +7,7 @@ layout: page
 <p>
 <strong>{{ p.title }}</strong> ({{ p.year }})<br/>
 {{ p.authors }}<br/>
+{% if p.note %}<em>{{ p.note }}</em><br/>{% endif %}
 {% if p.abstract %}{{ p.abstract }}<br/>{% endif %}
 {% if p.links.pdf %}<a href="{{ p.links.pdf }}">PDF</a>{% endif %}
 {% if p.links.ssrn %} | <a href="{{ p.links.ssrn }}">SSRN</a>{% endif %}
