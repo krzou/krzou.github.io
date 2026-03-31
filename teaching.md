@@ -4,14 +4,18 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## Hong Kong Baptist University (2024-)
+## Current Institution
 
-- **Financial Management** (Undergraduate)
-- **Corporate Finance** (Undergraduate)
-- **Corporate Finance** (MBA, Chinese-taught program)
+### Hong Kong Baptist University (2024-present)
 
-## Renmin University of China (2021–2024)
+- Financial Management (Undergraduate)
+- Corporate Finance (Undergraduate)
+- Corporate Finance (MBA, Chinese-taught program)
 
-- **Corporate Finance** (Undergraduate)
-- **Investment Banking** (Undergraduate)
-- **Credit Ratings** (Master’s)
+## Previous Teaching
+
+### Renmin University of China (2021-2024)
+
+- Corporate Finance (Undergraduate)
+- Investment Banking (Undergraduate)
+- Credit Ratings (Master's)
