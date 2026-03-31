@@ -32,7 +32,7 @@ Hong Kong Baptist University
 
 ## Working Papers
 
-1. Kunru Zou. "Redefining China's Real Estate Market: Land Sale, Local Government, and Policy Transformation." Working paper.
+1. Xiaozhe Guo, Yaling Jin, Hong Ru, Endong Yang, and Kunru Zou. "Redefining China's Real Estate Market: Land Sale, Local Government, and Policy Transformation." Working paper. [PDF](/files/trl_paper_20260327.pdf)
 2. He, Zhiguo, Zehao Liu, Xinle Pang, Yang Su, and Kunru Zou. "Household Mobility and Collateral Constraint: Cash-based Housing Resettlement in China." 2025 China International Conference in Finance.
 
 ## Teaching
