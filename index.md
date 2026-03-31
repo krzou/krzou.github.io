@@ -10,18 +10,10 @@ Assistant Professor
 Department of Accountancy, Economics and Finance  
 Hong Kong Baptist University
 
-I am an Assistant Professor at Hong Kong Baptist University. My research focuses on corporate finance, real estate, and the Chinese economy.
-
 Email: [kunruzou@hkbu.edu.hk](mailto:kunruzou@hkbu.edu.hk)  
 HKBU Profile: [Faculty page](https://scholars.hkbu.edu.hk/en/persons/KUNRUZOU/)  
 Research: [Publications and working papers](/research/)  
 Teaching: [Courses taught](/teaching/)
-
-## Research Interests
-
-- Corporate Finance
-- Real Estate
-- Chinese Economy
 
 ## Selected Publications
 
