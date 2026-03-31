@@ -1,7 +1,26 @@
-working_papers: []
+working_papers:
+  - title: "The Real Effects of the Recent Life Expectancy Shock"
+    authors: "Ze Chen, Yiyang Zhao, Kunru Zou"
+    year: 2025
+    status: "Conference paper, 2025 China International Conference in Finance"
+    abstract: "Studies how the recent decline in life expectancy affected defined benefit pension contributions, capital expenditure, R&D, and external financing."
+    links:
+      code: ""
+      pdf: ""
+      slides: ""
+
+  - title: "Household Mobility and Collateral Constraint: Cash-based Housing Resettlement in China"
+    authors: "Zhiguo He, Zehao Liu, Xinle Pang, Yang Su, Kunru Zou"
+    year: 2025
+    status: "Conference paper, 2025 China International Conference in Finance"
+    abstract: "Examines how cash-based housing resettlement relaxed borrowing constraints, affected migration, and influenced house prices in China."
+    links:
+      code: ""
+      pdf: ""
+      slides: ""
 
 publications:
-  - title: "Minimum wages, state-ownership, and corporate environmental policies"
+  - title: "Minimum Wages, State-ownership, and Corporate Environmental Policies"
     authors: "Tao Chen, Xi Xiong, Kunru Zou"
     year: 2025
     venue: "Journal of Financial and Quantitative Analysis"
@@ -10,7 +29,7 @@ publications:
       publisher: "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5C26463ACE912BE35CF29B860893D5D6/S0022109024000644a.pdf/div-class-title-minimum-wages-state-ownership-and-corporate-environmental-policies-div.pdf"
       ssrn: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4131002"
 
-  - title: "Early life experience and CEO’s reactions to COVID-19"
+  - title: "Early life experience and CEO's reactions to COVID-19"
     authors: "Hong Ru, Endong Yang, Kunru Zou"
     year: 2025
     venue: "Journal of Accounting and Economics"
