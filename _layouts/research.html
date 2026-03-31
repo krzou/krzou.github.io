@@ -9,6 +9,7 @@ layout: page
 {{ p.authors }}{% if p.status %} — <em>{{ p.status }}</em>{% endif %}<br/>
 {% if p.abstract %}{{ p.abstract }}<br/>{% endif %}
 {% if p.links.pdf %}<a href="{{ p.links.pdf }}">PDF</a>{% endif %}
+{% if p.links.ssrn %} | <a href="{{ p.links.ssrn }}">SSRN</a>{% endif %}
 {% if p.links.slides %} | <a href="{{ p.links.slides }}">Slides</a>{% endif %}
 {% if p.links.code %} | <a href="{{ p.links.code }}">Code</a>{% endif %}
 </p>
