@@ -7,12 +7,12 @@ permalink: /
 <div class="home-hero">
   <div class="home-hero-text">
     <h1>Kunru Zou</h1>
-    <p>
+    <p class="home-role">
       Assistant Professor<br>
       Department of Accountancy, Economics and Finance<br>
       Hong Kong Baptist University
     </p>
-    <p>My research focuses on corporate finance, real estate, and the Chinese economy.</p>
+    <p class="home-summary">My research focuses on corporate finance, real estate, and the Chinese economy.</p>
     <div class="home-links">
       <a href="mailto:kunruzou@hkbu.edu.hk">Email</a>
       <span>|</span>
