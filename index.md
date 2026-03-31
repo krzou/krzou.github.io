@@ -14,7 +14,7 @@ permalink: /
     </p>
     <p>My research focuses on corporate finance, real estate, and the Chinese economy.</p>
     <div class="home-links">
-      <div>Email: <a href="mailto:kunruzou@hkbu.edu.hk">kunruzou@hkbu.edu.hk</a></div>
+      <div><a href="mailto:kunruzou@hkbu.edu.hk">Email</a></div>
       <div>HKBU Profile: <a href="https://scholars.hkbu.edu.hk/en/persons/KUNRUZOU/">Faculty page</a></div>
       <div>Research: <a href="/research/">Publications and working papers</a></div>
       <div>Teaching: <a href="/teaching/">Courses taught</a></div>
