@@ -1,11 +1,11 @@
 working_papers:
-  - title: "Redefining China's real estate market: Land sale, local government, and policy transformation"
+  - title: "Deleveraging Developers in China: Real Effects and Spillovers"
     authors: "Xiaozhe Guo, Yaling Jin, Hong Ru, Endong Yang, Kunru Zou"
     year: 2026
     note: "AMES-China 2026 (scheduled)."
     abstract: "Examines the effects of China's Three-Red-Lines policy on developer financing, land acquisition, sales, local government land revenue, and LGFV participation in land markets."
     links:
-      pdf: "/files/trl_paper_20260327.pdf"
+      pdf: "/files/TRL_Paper.pdf"
       ssrn: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5124537"
 
   - title: "Household mobility and collateral constraint: Cash-based housing resettlement in China"
