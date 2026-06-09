@@ -1,5 +1,13 @@
 title: Kunru Zou
 description: Assistant Professor, Department of Accountancy, Economics and Finance, Hong Kong Baptist University
+url: "https://krzou.github.io"
+google_scholar: "https://scholar.google.com/citations?hl=en&user=5MTTlXUAAAAJ"
+hkbu_profile: "https://scholars.hkbu.edu.hk/en/persons/KUNRUZOU/"
+social:
+  name: Kunru Zou
+  links:
+    - "https://scholar.google.com/citations?hl=en&user=5MTTlXUAAAAJ"
+    - "https://scholars.hkbu.edu.hk/en/persons/KUNRUZOU/"
 theme: minima
 markdown: kramdown
 header_pages:

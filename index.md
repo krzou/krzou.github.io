@@ -16,7 +16,9 @@ permalink: /
     <div class="home-links">
       <a href="mailto:kunruzou@hkbu.edu.hk">Email</a>
       <span>|</span>
-      <a href="https://scholars.hkbu.edu.hk/en/persons/KUNRUZOU/">HKBU Profile</a>
+      <a href="{{ site.google_scholar }}">Google Scholar</a>
+      <span>|</span>
+      <a href="{{ site.hkbu_profile }}">HKBU Profile</a>
       <span>|</span>
       <a href="/research/">Research</a>
       <span>|</span>
